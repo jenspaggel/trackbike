@@ -11,7 +11,7 @@ Why not in the races? There are rules against it. See below.
 
 Why not in training? They are distracting the riders. If the track is yours and you are alone. Go for it. If you are sharing the track with other riders -- take care of their health and security was well as yours. Track riding is about focus. Focus on the bike, not the computer. 
 
-## The rules of the game (as mof Summer 2021)
+## The rules of the game (as of Summer 2021)
 
 # UCI Regulations part 3 track racing:
 
@@ -20,7 +20,7 @@ In addition, any electronic device with display (for instance speedometer or pow
 
 —————————-
 
-In consequence: use you powermeter in the race, but keep the computer at the saddle or the seat post. You could have it at the bars, but it needs to be covered that you cannot read the numbers. Trust me, I will ceck before I start the race. 
+In consequence: use you powermeter in the race, but keep the computer at the saddle or the seat post. You could have it at the bars, but it needs to be covered that you cannot read the numbers. Trust me, I will check before I start the race. 
 
 ----------
 
