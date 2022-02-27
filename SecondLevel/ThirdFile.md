@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thrid File
+title: Third File
 nav_order: 3
 ---
 
