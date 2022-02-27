@@ -10,14 +10,31 @@ The UIC typically publishes in English language. If you are interested in inform
 Die UCI publiziert in der Regel in Englisch. Deutsche Übersetzungen werden oft von Swiss Cycling zur Verfügung gestellt. Bindend sind die Informationen in den UCI Dokumenten.
 
 ### UCI home page
-https://www.uci.org [Link button](https://www.uci.org){: .btn }
+[Link button](https://www.uci.org){: .btn }
 
--- Equiment rules [Link button](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1){: .btn }
-This page refers to a table with all technical rules. 
+-- Equiment rules 
+This page refers to a table with all technical rules. The UCI has recently changed the structure of their web page, so links are a bit prone to instability. If the links are broken, please notify me. The structure of the page is at least confusing for me. Try the search function.
+
+[Link button](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1){: .btn }
+
 
 For bikes and setup this is what is more relevant.
 
--- Clarification of Technical rules [Link button](https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/1bef531dd9e9f534c34ff016c68e3c72/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20211005_-_ENG.pdf){: .btn }
+-- Clarification of Technical rules 
+Here you can find the information on how to interprete the UCI rules. The pdf document is typically more useful than the actual regulation. You can use it as guideline. The rules are however binding, not this illustration of the rules.
 
--- Measurement jig for TT bikes [Link button](https://assets.ctfassets.net/761l7gh5x5an/1L97MeBmjVB12JHfJx5k5u/1bad025439e0f29d8a7b4f988f44bdb8/equipment-bicyclemeasuringjig-eng_english.pdf){: .btn }
---
+[Link button](https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/1bef531dd9e9f534c34ff016c68e3c72/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20211005_-_ENG.pdf){: .btn }
+
+-- Measurement jig for TT bikes 
+Easy to build. I did one from aluminum profiles. A could of hours of work but fun and then it is easier to actually measure the bike setup. 
+
+[Link button](https://assets.ctfassets.net/761l7gh5x5an/1L97MeBmjVB12JHfJx5k5u/1bad025439e0f29d8a7b4f988f44bdb8/equipment-bicyclemeasuringjig-eng_english.pdf){: .btn }
+
+-- The actual rules for the bikes are here. If you want to find them, you need to search for regulations.
+
+[Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/3e1b6d0c106026312ad97c2a16ca150b/1-GEN-20220128-E.pdf){: .btn }
+
+-- All the regulations:
+
+[Link button](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat#part-i-general-organisation-of-cycling-as-a-sport){: .btn }
+
