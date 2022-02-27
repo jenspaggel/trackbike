@@ -2,7 +2,7 @@
 layout: default
 title: Topic a
 nav_order: 1
-has_parent = true
+parent: L2Topic1
 ---
 
 Topic 1a
