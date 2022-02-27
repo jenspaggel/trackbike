@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telemetrics
-nav_order: 1
+nav_order: 2
 parent: FAQ
 ---
 Telemetrics is not allowed as well, just in case you were just thingking about it. 
