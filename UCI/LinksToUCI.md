@@ -21,12 +21,12 @@ This page refers to a table with all technical rules. The UCI has recently chang
 For bikes and setup this is what is more relevant.
 
 -- Clarification of Technical rules 
-Here you can find the information on how to interprete the UCI rules. The pdf document is typically more useful than the actual regulation. You can use it as guideline. The rules are however binding, not this illustration of the rules.
+Here you can find the information on how to interpret the UCI rules. The pdf document is typically more useful than the actual regulation. You can use it as guideline. The rules are however binding, not this illustration of the rules.
 
 [Link button](https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/1bef531dd9e9f534c34ff016c68e3c72/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20211005_-_ENG.pdf){: .btn }
 
 -- Measurement jig for TT bikes 
-Easy to build. I did one from aluminum profiles. A could of hours of work but fun and then it is easier to actually measure the bike setup. 
+Easy to build. I did one from aluminum profiles. A couple of hours of work but fun and then it is easier to actually measure the bike setup. 
 
 [Link button](https://assets.ctfassets.net/761l7gh5x5an/1L97MeBmjVB12JHfJx5k5u/1bad025439e0f29d8a7b4f988f44bdb8/equipment-bicyclemeasuringjig-eng_english.pdf){: .btn }
 
