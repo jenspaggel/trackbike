@@ -2,7 +2,6 @@
 layout: default
 title: UCI Links
 nav_order: 90
-has_children: true
 ---
 
 #Links to UCI Rules / Links zu Rgeln der UCI
