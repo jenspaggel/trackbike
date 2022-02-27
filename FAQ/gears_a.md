@@ -8,7 +8,7 @@ Some gear selection ideas. If you wonder what to ride.
 
 How to read it: The only relevant thing is the gear ration. Imagine you want to know which grea is a little faster than 52/15, but not as tough as 52/14? There are 6 option in between (if you own chain rings from 50 to 56 teeth and cogs from 13 to 17 teeth). Many options.
 
-| Chain ring | cog | ratio | distand (23mm tire) |
+| Chain Ring | Cog | Ratio | distance (23mm tire) |
 |:-----------|:----|:------|:--------|
 |50	| 17 |	2,94 |	6,16|
 |51 |	17 |	3,00 |	6,29|
