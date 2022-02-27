@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Index
+parent: index
 nav_order: 1
 ---
 
