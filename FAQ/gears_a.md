@@ -9,6 +9,8 @@ Some gear selection ideas. If you wonder what to ride.
 
 How to read it: The only relevant thing is the gear ratio. Imagine you want to know which gear is a little faster than 52/15, but not as tough as 52/14? There are 6 option in between (if you own chain rings from 50 to 56 teeth and cogs from 13 to 17 teeth). Many options.
 
+For time trials a smoother ride is more important, so the choice should be biased to bigger chainrings. In the end Eddy Merckx was running 52/14 for his hour record. Completely wrong by todays wisdom. It worked for him. 
+
 | Chain Ring | Cog | Ratio | distance (23mm tire) |
 |:-----------|:----|:------|:--------|
 |50	| 17 |	2,94 |	6,16|
