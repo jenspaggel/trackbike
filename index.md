@@ -2,7 +2,6 @@
 layout: default
 title: index
 nav_order: 1
-has_children: true
 ---
 
 ## Welcome to Some Growing Information Base on Track Cycling
