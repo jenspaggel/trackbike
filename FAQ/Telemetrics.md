@@ -4,11 +4,11 @@ title: Telemetrics
 nav_order: 2
 parent: FAQ
 ---
-Telemetrics is not allowed as well, just in case you were just thingking about it. 
+Telemetrics is not allowed as well, just in case you were just thingking about it. This is just a summary I collected in summer 2021. Remember: The only valid source of information is the original UCI document. However, do not expect it to be changing a lot.  
 
 UCI cycling regulations part 1:
 
-# §4 Onboard technology
+## §4 Onboard technology
 
 1.3.006 Onboard technology devices, which capture or transmit data, may be fitted on bicycles bis or worn by riders subject to being authorised under the present article, without prejudice to other provisions of the UCI Regulations. The present article concerns any device which captures or transmits data as described below, including but not limited to sensors
 (worn or ingested), transponders, rider information systems, telemetry devices.
