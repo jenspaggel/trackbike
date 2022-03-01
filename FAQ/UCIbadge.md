@@ -2,10 +2,11 @@
 layout: default
 title: UCI badge
 nav_order: 5
+parent: FAQ
 ---
 My bike does not have a UCI badge. Am I allowed to race it in UCI races?
 
-Straight forward answer: Yes, you are if the frame was designed befor Jan 01st 2011. If the bike does not carry a badge, it is possible that it will be examined by the commissairs. No big deal. Older frames are still ridden in world championships and do not carry the badge. This is perfectly fine. Forcing the riders to use frames with badges would hurt less priviledged countries more than others. This is certainly not intended by the UCI. Newer bikes without badges are not really allowed in the races.
+Straight forward answer: It depends. Yes, you are if the frame was designed befor Jan 01st 2011. If the bike does not carry a badge, it is possible that it will be examined by the commissairs. No big deal. Older frames are still ridden in world championships and do not carry the badge. This is perfectly fine. Forcing the riders to use frames with badges would hurt less priviledged countries more than others. This is certainly not intended by the UCI. Newer bikes without badges are not allowed in the races.
 
 What is my source for the information: UCI frame approval protocoll. And verified at the Track Worlds 2021, where a bike frame was used that for sure has no badge. I talked to the owner of the company making the frame and our club owns one of the frames. This is why I researched. The written documentation is relatively sparse.
 
