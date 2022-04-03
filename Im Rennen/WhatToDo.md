@@ -10,7 +10,7 @@ Je nach Rennen gibt es etwas unterschiedliche Details. Innerhalb der Neutralisat
 - Ausscheidung:
 Die Ausscheidungen werden ausgesetzt. Das ganze Rennen ist neutralisiert. Rein ins Feld (einholen lassen und weiter).
 
--Scratch:
+- Scratch:
 Rennen läuft weiter. Die gestürzten Fahrer können eine Neutralisation in Anspruch nehmen. 
 
 -Madison:
