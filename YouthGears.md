@@ -3,11 +3,26 @@ layout: default
 title: Übersetzungsbeschränkung Nachwuchs Deutschland
 nav_order: 10
 ---
-In den Jugendklassen werden die Ablauflängen auf der Bahn beschränkt. Wichtig ist zu verstehen, dass die Ablauflängen, d.h. die Distanz die zurückgelegt wird bei einer Kurbelumdrehung, bescränkt ist. NICHT die Übersetzung.
+In den Jugendklassen werden die Ablauflängen auf der Bahn beschränkt. Wichtig ist zu verstehen, dass die Ablauflängen, d.h. die Distanz die zurückgelegt wird bei einer Kurbelumdrehung, beschränkt ist. NICHT die Übersetzung.
 # Was beeinflußt die Ablauflänge?
 - Die Reifenbreite. Bei der Ablauflänge ist bei gleicher Übersetzung mit 19 mm, 22 mm oder 25 mm breiten Reifen eine andere Ablauflänge zu messen.
 - Der Reifenhersteller. Reifen haben abhängig vom Hersteller eine leicht unterschiedliche Form. Gleicher Reifendurchmesser, gleiche Übersetzung kann zu einer anderen Ablauflänge führen. 
-- Luftdruck. Gerade bei 25 mm Reifen hat der Luftdruck einen erheblichen Einfluß auf die Ablauflänge. 0.5 bar können einen Unterschied machen zwischen OK und NOK.
+- Luftdruck. Gerade bei 25 mm Reifen hat der Luftdruck einen erheblichen Einfluß auf die Ablauflänge. 0.5 bar können einen Unterschied machen zwischen OK und NOK. Gerade wenn breite Hakenfelgen mit Schlauchlosreifen gefahren werden ist der Luftdruckeinfluß spektakulär. Zu diesem Thema: Schlauchlos mit Milch auf der Bahn? Ich möchte nicht der M<echaniker sein, der die Bahn von der Dichtmilch befreien muss. Hin und wieder platzen Reifen auf der Bahn. Schlauchreifen haben wirklich bessere N<otlaufeingenschaften, d.h. die bleiben länger auf der Felge. In der Regel. 
 
 # Wie wird gemessen?
 Das Rad wird geschoben. Eine Kurbel unten. Schieben bis die gleich Kurbel wieder senkrecht nach unten zeigt. Die geschobene Distanz wird gemessen. --> ausprobieren. Rechnen zählt nicht.
+
+# Zahlen
+| Altersklasse  | Ablauflänge | typische Übersetzung|
+|:--------------|:------------|:--------------------|
+| Schüler U11   | 5,66 m      | 48/18 |
+| Schüler U13.  | 6,10 m      | 46/16 |
+| Schüler U15w  | 6,45 m      | 48/16 oder 51/17 |
+| Schüler U15m  | 6,70 m      | 50/16 |
+| Jugend U17w  | 7,01 m      | 50/15 oder 53/16 |
+| Jugend U17m  | 7,60 m      | 53/15 oder 50/14 |
+| Junioren m/w | kein Limit | |
+
+Generell ist es so, dass die Ablauflängen maximale Ablauflängen sind. Je nach Vorlieben und Fähigkeiten der Fahrerinnen sollte davon abgewichen werden. 
+Sollten die richtigen <kettenblätter/Ritzel gerade nicht vorhanden sein, oder die Kettenlänge nicht zur Übersetzung passen: ein Zahn hinter mehr --> drei Zähne vorne mehr. Achtung! Es gilt die Ablauflänge. 
+
