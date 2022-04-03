@@ -25,5 +25,5 @@ Das Rad wird geschoben. Eine Kurbel unten. Schieben bis die gleich Kurbel wieder
 | Junioren m/w | kein Limit | |
 
 Generell ist es so, dass die Ablauflängen maximale Ablauflängen sind. Je nach Vorlieben und Fähigkeiten der Fahrerinnen sollte davon abgewichen werden. 
-Sollten die richtigen <kettenblätter/Ritzel gerade nicht vorhanden sein, oder die Kettenlänge nicht zur Übersetzung passen: ein Zahn hinter mehr --> drei Zähne vorne mehr. Achtung! Es gilt die Ablauflänge. 
+Sollten die richtigen Kettenblätter/Ritzel gerade nicht vorhanden sein, oder die Kettenlänge nicht zur Übersetzung passen: ein Zahn hinter mehr --> drei Zähne vorne mehr. Achtung! Es gilt die Ablauflänge. 
 
