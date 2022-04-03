@@ -5,7 +5,7 @@ nav_order: 6
 ---
 # Ich bin gestürzt, was passiert dann? 
 In der Regel gibt es eine Neutralisation über einen Distanz and Runden, die 1250m am nächsten kommt. 5 Runden 250 m Bahn, 6 Runden 200 m Bahn, 4 Runden 333m Bahn.
-Je nach Rennen gibt es etwas unterschiedliche Details. Innerhalb der Neutralisationszeit kann das Rennen wieder aufgenommen werden. An der Stelle an der der Rennvorfall aufgetreten ist. Auf den letzten 1000m gibt es keine Neutraliseation mehr. Die gestürzten Fahrer können das Rennen nicht mehr aufnehmen, werden aber gewertet. 
+Je nach Rennen gibt es etwas unterschiedliche Details. Innerhalb der Neutralisationszeit kann das Rennen wieder aufgenommen werden. An der Stelle an der der Rennvorfall aufgetreten ist. Auf den letzten 1000m gibt es keine Neutralisation mehr. Die gestürzten Fahrer können das Rennen nicht mehr aufnehmen, werden aber gewertet. 
 
 - Ausscheidung:
 Die Ausscheidungen werden ausgesetzt. Das ganze Rennen ist neutralisiert. Rein ins Feld (einholen lassen und weiter).
@@ -23,3 +23,11 @@ Das Rennen geht weiter. Die anderen sammeln Punkte. Die gestürzten Fahrer könn
 Wie Punktefahren.
 
 Generell gilt: Sicherheit geht vor. Das Kommissärskollegium kann wenn es notwendig ist entweder das Rennen neutralisieren, d.h. gelbe Flagge und Feld fährt ruhig und versammelt in der Regel oberhalb der Steherlinie. Rennen kann auch abgebrochen werden. Das wird durch eine rote Flagge angezeigt. Neutralisation und Abbruch werden mit Doppelschuß, Glocke, Lautsprecher und Flagge angezeigt. 
+
+# Mein Reifen ist geplatzt, was mache ich?
+Das ist ein Rennvorfall und es gilt eine Neutralisation wie beim Sturz.
+# Ich habe Ausgeklickt, was mache ich?
+Im Zeitfahren und in der Verfolgung beim Start: Neustart. 1x pro Runde erlaubt. Je nach Zeitpunkt des Vorfalls unterschiedliche Verfahrensweisen. Ist einfach beschrieben dine der WB-Ordnung,
+Im Massenstartrennen: Pech gehabt, es sei denn beim Vermeiden einen Sturzes. Dann gewähren die Kommissäre in der Regel eine Neutralisation. 
+# Wann gehe ich aus dem Ausscheidungsrennen?
+Wenn du deinen Namen oder deine Startnummer gehört hast. Die Entscheidung muss bis zur Verfolgerlinie auf der Gegengerade getroffen sein. Warum ist das so? Es kann sein, dass du zwar letzter über die Linie warst, aber emand anderes eine Regel verletzt hat und us dem Rennen genommen wird. Wenn du dan freiwill 'raus gehts hast du extra Arbeit. So etwas ist sogar bei Europameisterscaten zu sehen, wenn Sportler zu früh ausscheiden. 
