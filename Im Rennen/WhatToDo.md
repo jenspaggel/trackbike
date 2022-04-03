@@ -28,9 +28,9 @@ Generell gilt: Sicherheit geht vor. Das Kommissärskollegium kann wenn es notwen
 Das ist ein Rennvorfall und es gilt eine Neutralisation wie beim Sturz.
 
 # Ich habe Ausgeklickt, was mache ich?
-Im Zeitfahren und in der Verfolgung beim Start: Neustart. 1x pro Runde erlaubt. Je nach Zeitpunkt des Vorfalls unterschiedliche Verfahrensweisen. Ist einfach beschrieben in der WB-Ordnung,
-Im Massenstartrennen: Pech gehabt, es sei denn beim Vermeiden einen Sturzes. Dann gewähren die Kommissäre in der Regel eine Neutralisation. 
+Im Zeitfahren und in der Verfolgung beim Start: Neustart. 1x pro Runde erlaubt. Je nach Zeitpunkt des Vorfalls unterschiedliche Verfahrensweisen. Ist einfach beschrieben in der WB-Ordnung.
+Im Massenstartrennen: Pech gehabt, es sei denn beim Vermeiden eines Sturzes. Dann gewähren die Kommissäre in der Regel eine Neutralisation. 
 
 # Wann gehe ich aus dem Ausscheidungsrennen?
-Wenn du deinen Namen oder deine Startnummer gehört hast. Die Entscheidung muss bis zur Verfolgerlinie auf der Gegengerade getroffen sein. Warum ist das so? Es kann sein, dass du zwar letzter über die Linie warst, aber jemand anderes eine Regel verletzt hat und aus dem Rennen genommen wird. Wenn du dan freiwillig 'raus gehts hast du extra Arbeit. So etwas ist sogar bei Europameisterscaten zu sehen, wenn Sportler zu früh Druck vom Pedal nehmen und dann dem Feld hinterher jagen.
+Wenn du deinen Namen oder deine Startnummer gehört hast. Die Entscheidung muss bis zur Verfolgerlinie auf der Gegengerade getroffen sein. Warum ist das so? Es kann sein, dass du zwar letzter über die Linie warst, aber jemand anderes eine Regel verletzt hat und aus dem Rennen genommen wird. Wenn du dan freiwillig 'raus gehts hast du extra Arbeit. So etwas ist sogar bei Europameisterschaften zu sehen, wenn Sportler zu früh Druck vom Pedal nehmen und dann dem Feld hinterher jagen.
 
