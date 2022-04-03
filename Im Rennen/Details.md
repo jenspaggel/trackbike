@@ -3,7 +3,7 @@ layout: default
 title: Kleinigkeiten
 nav_order: 7
 ---
-## Ich fahren gegen meine Teamkollegin. Was ist zu beachten?
+## Ich fahre gegen meine Teamkollegin. Was ist zu beachten?
 Ihr müsst unterscheidbar sein. Fahrrad, Überschuhe, Handschuhe, was auch immer: Ein Teil muss unterschiedlich sein. 
 
 ## Warum muss ich mein Visier im Vorstart absetzen?
