@@ -14,7 +14,7 @@ Die Ausscheidungen werden ausgesetzt. Das ganze Rennen ist neutralisiert. Rein i
 Rennen läuft weiter. Die gestürzten Fahrer können eine Neutralisation in Anspruch nehmen. 
 
 - Madison:
-Das Rennen geht weiter. Der nicht gestürzte Fahrer nimmt das Rennen in der Gruppe auf, in der der gestürzte Fahrer sich befunden hat. Sürzen beider Fahrer, können sie eien Neutralisation in Anspruch nehmen. Alle anderen fahren normal weiter. 
+Das Rennen geht weiter. Der nicht gestürzte Fahrer nimmt das Rennen in der Gruppe auf, in der der gestürzte Fahrer sich befunden hat. Stürzen beide Fahrer, können sie eien Neutralisation in Anspruch nehmen. Alle anderen fahren normal weiter. 
 
 - Punkterennen:
 Das Rennen geht weiter. Die anderen sammeln Punkte. Die gestürzten Fahrer können eine Neutralisation in Anspruch nehmen. Die Kommissäre entscheiden ob ein Fahrer nach der Neutralisation die Wertung mitfahren darf oder nicht. 
