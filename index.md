@@ -8,7 +8,7 @@ nav_order: 1
 
 Some information will be English, some will be German. Just depending on the targeted audience. You will notice.
 
-We have some AFQ on various topics. I will figure out some way for you to contibute. Sooner or later. 
+We have some FAQ on various topics. I will figure out some way for you to contibute. Sooner or later. 
 
 Hallo zusammen, Einsteiger und Fortgeschrittene rund um das Thema Bahnradsport. Meine Sammlung zu Fragen, die ihr mir stellt und Antworten, die ich finde ohne dass mir die Frage gestellt wird und einige Diskussionen, die ich mit verschiedenen Personen im lauf der Zeit führen durfte.
 
