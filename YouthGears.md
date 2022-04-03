@@ -13,6 +13,7 @@ In den Jugendklassen werden die Ablauflängen auf der Bahn beschränkt. Wichtig 
 Das Rad wird geschoben. Eine Kurbel unten. Schieben bis die gleich Kurbel wieder senkrecht nach unten zeigt. Die geschobene Distanz wird gemessen. --> ausprobieren. Rechnen zählt nicht.
 
 # Zahlen
+
 | Altersklasse  | Ablauflänge | typische Übersetzung|
 |:--------------|:------------|:--------------------|
 | Schüler U11   | 5,66 m      | 48/18 |
