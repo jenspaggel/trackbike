@@ -11,6 +11,12 @@ How to read it: The only relevant thing is the gear ratio. Imagine you want to k
 
 For time trials a smoother ride is more important, so the choice should be biased to bigger chainrings. In the end Eddy Merckx was running 52/14 for his hour record. Completely wrong by todays wisdom. It worked for him. 
 
+You are asking yourself "what is the difference when you go to a larger chainring if the gear ratio is just the same?" The often mentioned reason "The levers are longer for the bigger chain ring" is completely wrong. Torque is the same, no matter how big the chain ring is. Sorry guys. What really makes the difference is the force. For a bigger chain ring there is less force in the chain for the same torque at the hub. Less force on the chain equals less friction. Not between chain and sprocket, but within the chain. The other thing is certainly the force transfer to the sprocket. 10 teeth sprockets look insane and cool. Mechanically, I do not get the point. (Sorry to NZ...). The bigger the sprocket, the smoother the ride. Force in the chain, plus: the bigger the rig, the lower the influences of tolerances. 
+
+Last point: You want to run odd numbers of teeth in the back for a smoother ride. 
+
+Fixie pilots: Prime numbers work best for you to avoid always braking at the same spot of the tire. This probably goes off topic a bit now. 
+
 | Chain Ring | Cog | Ratio | distance (23mm tire) |
 |:-----------|:----|:------|:--------|
 |50	| 17 |	2,94 |	6,16|
