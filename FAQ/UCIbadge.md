@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCI Homologization
+title: UCI Homologation
 nav_order: 5
 parent: FAQ
 ---
