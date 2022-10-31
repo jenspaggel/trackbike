@@ -21,4 +21,4 @@ Countermeasures
 
 In any case: When a tires dies on a track, investigate the reason. They should not explode or just spontaneously go flat. There is always a reason. The may be a rotten spot on the track, or somethis sharp in a crack of a concrete track. Go and look. You will find something. You however need to look at the track if the defect is on the tread of the wheel. 
 
-An yes, I get to fix more wheels that I buy myself. 
+And yes, I get to fix more wheels that I buy myself. 
