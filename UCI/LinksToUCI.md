@@ -15,7 +15,7 @@ Die UCI publiziert in der Regel in Englisch. Deutsche Übersetzungen werden oft 
 -- Equiment rules 
 This page refers to a table with all technical rules. The UCI has recently changed the structure of their web page, so links are a bit prone to instability. If the links are broken, please notify me. The structure of the page is at least confusing for me. Try the search function.
 
-[Link button](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1){: .btn }
+[Link button]([https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1)){: .btn }
 
 
 For bikes and setup this is what is more relevant.
@@ -23,7 +23,7 @@ For bikes and setup this is what is more relevant.
 -- Clarification of Technical rules 
 Here you can find the information on how to interpret the UCI rules. The pdf document is typically more useful than the actual regulation. You can use it as guideline. The rules are however binding, not this illustration of the rules.
 
-[Link button](https://assets.ctfassets.net/761l7gh5x5an/7s1ma6mVAVlFwi8rRgy0Iw/1bef531dd9e9f534c34ff016c68e3c72/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20211005_-_ENG.pdf){: .btn }
+[Link button]((https://assets.ctfassets.net/761l7gh5x5an/6cmP3f8KY4mTfI6hAYCduP/bc302478704fbb84db10f47571a8a45c/Clarification_Guide_of_the_UCI_Technical_Regulation_-_20230126_-_ENG.pdf)){: .btn }
 
 -- Measurement jig for TT bikes 
 Easy to build. I did one from aluminum profiles. A couple of hours of work but fun and then it is easier to actually measure the bike setup. 
