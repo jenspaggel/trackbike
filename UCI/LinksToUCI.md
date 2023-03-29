@@ -14,6 +14,7 @@ Die UCI publiziert in der Regel in Englisch. Deutsche Übersetzungen werden oft 
 
 -- All Rules
 This page is the location from which you can access all the rules in place:
+
 [Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/ebb81ba6b3212a241f131dbed95226a3/1-GEN-20230220-E.pdf){: .btn }
 
 -- Equiment rules 
