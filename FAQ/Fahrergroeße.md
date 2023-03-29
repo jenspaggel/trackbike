@@ -24,28 +24,28 @@ Tretlagermitte und Höhe des Aufliegers relativ zur Mitte der Polster 10 cm.
 
 Hier der link zur Graphik:
 
-[link button] (https://assets.ctfassets.net/761l7gh5x5an/74TumBPCXzkd4ZFqSmdHAK/71b9bb99b913b69c971bab4453ee772a/2023_Technical_Regulations_Mass_Individual_Team_Events_TRACK_ROAD_CYCLO-CROSS_-_Infographic.pdf) {.btn}
+[link button](https://assets.ctfassets.net/761l7gh5x5an/74TumBPCXzkd4ZFqSmdHAK/71b9bb99b913b69c971bab4453ee772a/2023_Technical_Regulations_Mass_Individual_Team_Events_TRACK_ROAD_CYCLO-CROSS_-_Infographic.pdf) {.btn}
 
 ## Wie stellt der Kommissär fest wie groß der Fahrer ist?
 
 Ganz einfach, er schaut in der Liste nach. Die UCI hat eine Liste. In die könnt ihr euch eintragen. Hier die Liste. Sie ist öffendlich.
 
-[link button (https://assets.ctfassets.net/761l7gh5x5an/1lpZ8fXEEqVC6h5b0WuRhd/52af27800ca922bde8c858c438c7c8b6/2023.03.23_UCI_List_riders_Category_2_and_3_-_Liste_UCI_coureurs_Cat__gorie_2_et_3.pdf) {.btn}
+[link button](https://assets.ctfassets.net/761l7gh5x5an/1lpZ8fXEEqVC6h5b0WuRhd/52af27800ca922bde8c858c438c7c8b6/2023.03.23_UCI_List_riders_Category_2_and_3_-_Liste_UCI_coureurs_Cat__gorie_2_et_3.pdf) {.btn}
 
 
 Auf dieser Seite könnt ihr das Formular herunter laden auf dem ein Arzt die Größe bestätigt. Mit dem Formular könnt ihr euch eintragen. Dabei die das Formular hochzuladen. Self-service und ganz einfach.
 
-[link button] (https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1) {.btn}
+[link button](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1) {.btn}
 
 ## Was ist noch zu beachten?
 
 Die Fahrergröße ist per Aufkleber auf dem Oberrohr des Rades zu dokumentieren. Hier die Vorlagen für die Aufkleber:
 
-[link button] (https://assets.ctfassets.net/761l7gh5x5an/102VCTKp5nq1RHTrmj0JXU/bcd4a31d4aea027df34fac47e2c30574/2023_UCI_HEIGHT_CATEGORIES_LABELS_1_2_3.pdf) {.btn}
+[link button](https://assets.ctfassets.net/761l7gh5x5an/102VCTKp5nq1RHTrmj0JXU/bcd4a31d4aea027df34fac47e2c30574/2023_UCI_HEIGHT_CATEGORIES_LABELS_1_2_3.pdf) {.btn}
 
 Wo gehören die Aufkleber hin? 
 
-[link button] (https://assets.ctfassets.net/761l7gh5x5an/7qG3lu7qKL3zMyRmIlUKGL/e853c7cd6e9783f0341d37f86b5e662d/UCI_HEIGHT_CATEGORY_LABELS_-_Visual_Guidelines.pdf) {.btn}
+[link button](https://assets.ctfassets.net/761l7gh5x5an/7qG3lu7qKL3zMyRmIlUKGL/e853c7cd6e9783f0341d37f86b5e662d/UCI_HEIGHT_CATEGORY_LABELS_-_Visual_Guidelines.pdf) {.btn}
 
 Ist kein Aufkleber auf dem Rad, gilt die Größenkategorie "1".
 
