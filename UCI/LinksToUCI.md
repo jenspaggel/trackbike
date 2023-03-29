@@ -12,10 +12,14 @@ Die UCI publiziert in der Regel in Englisch. Deutsche Übersetzungen werden oft 
 ### UCI home page
 [Link button](https://www.uci.org){: .btn }
 
+-- All Rules
+This page is the location from which you can access all the rules in place:
+[Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/ebb81ba6b3212a241f131dbed95226a3/1-GEN-20230220-E.pdf){ .btn }
+
 -- Equiment rules 
 This page refers to a table with all technical rules. The UCI has recently changed the structure of their web page, so links are a bit prone to instability. If the links are broken, please notify me. The structure of the page is at least confusing for me. Try the search function.
 
-[Link button]([https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1)){: .btn }
+[Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/ebb81ba6b3212a241f131dbed95226a3/1-GEN-20230220-E.pdf){: .btn }
 
 
 For bikes and setup this is what is more relevant.
