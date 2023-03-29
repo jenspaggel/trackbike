@@ -12,12 +12,12 @@ Die UCI publiziert in der Regel in Englisch. Deutsche Übersetzungen werden oft 
 ### UCI home page
 [Link button](https://www.uci.org){: .btn }
 
--- All Rules
+-- All Rules on Equipment
 This page is the location from which you can access all the rules in place:
 
 [Link button](https://www.uci.org/equipment/bh2JJzw1eB0n876rX2iB1){: .btn }
 
--- Equiment rules 
+-- Equiment rules and Rules for Races
 This page refers to a table with all technical rules. The UCI has recently changed the structure of their web page, so links are a bit prone to instability. If the links are broken, please notify me. The structure of the page is at least confusing for me. Try the search function.
 
 [Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/ebb81ba6b3212a241f131dbed95226a3/1-GEN-20230220-E.pdf){: .btn }
@@ -35,9 +35,6 @@ Easy to build. I did one from aluminum profiles. A couple of hours of work but f
 
 [Link button](https://assets.ctfassets.net/761l7gh5x5an/1L97MeBmjVB12JHfJx5k5u/1bad025439e0f29d8a7b4f988f44bdb8/equipment-bicyclemeasuringjig-eng_english.pdf){: .btn }
 
--- The actual rules for the bikes are here. If you want to find them, you need to search for regulations.
-
-[Link button](https://assets.ctfassets.net/761l7gh5x5an/wQympSG6EWlKq6o6HKw9E/3e1b6d0c106026312ad97c2a16ca150b/1-GEN-20220128-E.pdf){: .btn }
 
 -- All the regulations:
 
