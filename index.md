@@ -14,6 +14,6 @@ Hallo zusammen, Einsteiger und Fortgeschrittene rund um das Thema Bahnradsport. 
 
 Mein Danke geht an BDR-Kommissäre und Herstellervertreter, Firmeneigentümer und UCE-Verantwortliche wie auch UCI-Verantwortliche für geduldige Antworten auf meine Fragen. Chapeau.
 
-I would like to thank all you guys supporting me by answering my questions. There are BDR- and UCI-commissairs, representents of OEMs, owners of companies, responsibles of the UCE and UCI. 
+I would like to thank all you guys supporting me by answering my questions. There are BDR- and UCI-commissairs, representants of OEMs, owners of companies, responsibles of the UCE and UCI. 
 
 
