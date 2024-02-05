@@ -28,7 +28,7 @@ Generell gilt: Sicherheit geht vor. Das Kommissärskollegium kann wenn es notwen
 Das ist ein Rennvorfall und es gilt eine Neutralisation wie beim Sturz.
 
 # Ich habe Ausgeklickt, was mache ich?
-Im Zeitfahren und in der Verfolgung beim Start: NPech gehabt. Kein Neustart.
+Im Zeitfahren und in der Verfolgung beim Start: Pech gehabt. Kein Neustart.
 
 Im Massenstartrennen: Pech gehabt, es sei denn beim Vermeiden eines Sturzes. Dann gewähren die Kommissäre in der Regel eine Neutralisation. WM 2022 Ausscheidungsrennen Tim Torn Teutenberg: klickt nach einem Rempler aus um einen Sturz zu vermeiden, die Kommissäre entscheiden nicht auf Neutralisation. Gerade bei Ausscheidungsrennen gilt Tatsachenentscheidung. Jeder der jetzt schimpft ist eingeladen zu probieren schneller richtiger zu entscheiden. Bitte nicht missverstehen: ich bewerte nicht die Entscheidung der Kommissäre. Ich habe nur die Zeitlupe im Fernsehen gehabt. Der Judge Referee hat in der Regel 2 Kameras und eine bessere Sicht. Ich maße mir hier keine Bewertung an. 
 
