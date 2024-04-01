@@ -13,10 +13,12 @@ Es steht so in den UCI-Regeln, weil wohl ein Sportler mal geschummelt hat. Es st
 Ja. Ausser im Vorgaberennen, da nicht. Allerdings: du muss stehen bleiben beim Anschieben. Körpergewicht hilft. Sorry, ich tauge da nicht viel. Allerdings bitte nicht in die Bahn laufen. Starthelfer sollten keine Stürze verursachen. Es ist nicht schlimm wenn sie selbst auf der Nase liegen, sie sollten keine Fahrer behindern.
 
 ## Wie bin ich Starthelfer beim Mannschafts-Zeitfahren? 
-Auf Meisterschaften in der Regel gar nicht. Du bringst deinen Sportler an die Startposition und übergibst den aufgestiegenen Fahrer an den Starthelfer. Der Starthelfer steht hinter dem Rad und macht nichts. Solltest du doch einmal Starthelfer sein, Vorsicht: manche Fahrer starten mit einem BMX-Start. Das Zurückrollen muss dann verhindert werden, sonst stürzt der Fahrer oder das Rad gerät aus der Kontrolle. Trick: Fuß hinter das Rad stellen. Tut nicht weh.  
+Auf Meisterschaften in der Regel gar nicht. Du bringst deinen Sportler an die Startposition und übergibst den aufgestiegenen Fahrer an den Starthelfer. Der Starthelfer steht hinter dem Rad und macht nichts. Solltest du doch einmal Starthelfer sein, Vorsicht: manche Fahrer starten mit einem BMX-Start. Das Zurückrollen muss dann verhindert werden, sonst stürzt der Fahrer oder das Rad gerät aus der Kontrolle. Trick: Fuß hinter das Rad stellen. Tut nicht weh. Es kann der Fall eintreten, dass nicht genügend Kommissäre bei den Rennen zur Verügung stehen. In diesem Fall ist der Betreuer auch der Starthelfer. 
 
 ## Ich bringe einen Fahrer zu Startmaschine. Was ist speziell? 
 Die Vorbereitungszeit läuft, sobald das Rad in der Startmaschine steht und bereit ist. Der Fahrer gibt eigentlich die Zeit vor. Geht einfach langsam und achtet auf den Fahrer. Drängt ihn nicht. 
+In der Timer ist auf 30 sec gestellt. 
+Abweichend gilt für Paracycling, dass der Timer startet wenn der Sportler/die Sportlerin Startbereitschaft signalisiert. Dann startet der Timer mit 15 sec. 
 
 ## Ich bin hinten aus dem Feld gefallen und werde von einer Fluchtgruppe eingeholt. Was mache ich?
 Mitfahren, im Windschatten. Du darfst keine Führung fahren, auch wenn du könntest. Du darfst nur mitfahren. Hilft leider nicht. Achtung: so kannst du leicht einen Rundenverlust vermeiden, indem du dich wieder vorziehen lässt.
