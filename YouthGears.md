@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Übersetzungsbeschränkung Nachwuchs Deutschland
+title: Übersetzungsbeschränkung Nachwuchs Deutschland / Gearing Ratio Limits Germany
 nav_order: 10
 ---
 In den Jugendklassen werden die Ablauflängen auf der Bahn beschränkt. Wichtig ist zu verstehen, dass die Ablauflängen, d.h. die Distanz die zurückgelegt wird bei einer Kurbelumdrehung, beschränkt ist. NICHT die Übersetzung.
