@@ -26,5 +26,37 @@ Das Rad wird geschoben. Eine Kurbel unten. Schieben bis die gleich Kurbel wieder
 | Junioren m/w | kein Limit | |
 
 Generell ist es so, dass die Ablauflängen maximale Ablauflängen sind. Je nach Vorlieben und Fähigkeiten der Fahrerinnen sollte davon abgewichen werden. 
-Sollten die richtigen Kettenblätter/Ritzel gerade nicht vorhanden sein, oder die Kettenlänge nicht zur Übersetzung passen: ein Zahn hinter mehr --> drei Zähne vorne mehr. Achtung! Es gilt die Ablauflänge. 
+Sollten die richtigen Kettenblätter/Ritzel gerade nicht vorhanden sein, oder die Kettenlänge nicht zur Übersetzung passen: ein Zahn hinten mehr --> drei Zähne vorne mehr. Achtung! Es gilt die Ablauflänge. 
+
+# English Version
+For young riders, the gearing ratio is limited in the races. Compliant with the UCI regulations, only gearing for Under 17 riders is limited. The gearing ratio itself is not regulated. What is regulated the distance traveled with the UNLOADED bike for one pedal revolution. 
+
+This distance is heavily influenced by 
+- Tire width
+- Tire pressure
+- Tire manufacturer
+- Rim width
+
+Clincers are influenced more than tubulars, but the concept holds. 0.5 bar make a difference. 
+
+# How to conduct the measurements
+
+Push the unloaded bike. One crank arm points down. The bike is pushed until the same crank arm points down again. The distance travelled is measured. The accuracy is open for discussion. Recommendation: Play it safe. You do not want to discuss gearing 5 mins before the race starts. The commissaire decides.
+
+# Numbers
+
+| Age Class  | distance travelled per revolution | typical gearing|
+|:--------------|:------------|:--------------------|
+| U11   | 5,66 m      | 48/18 |
+| U13  | 6,10 m      | 46/16 |
+| U15f  | 6,45 m      | 48/16 or 51/17 |
+| U15m  | 6,70 m      | 50/16 |
+| U17f  | 7,01 m      | 50/15 or 53/16 |
+| U17m  | 7,60 m      | 53/15 or 50/14 |
+| Juniors m/f | no limit | |
+
+Rule of thumb three teeth at the chain ring are equivalent to one tooth at the sprocket. (Not exactly)
+
+When setting up the bike, you might want to consider gearing changes for training sessions. It is common to use more than one chain when doing sprint and endurance races. 
+
 
